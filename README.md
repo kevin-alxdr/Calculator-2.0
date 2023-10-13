@@ -1,7 +1,5 @@
 # Calculator-2.0
 
-﻿ABOUT
--------------------------------------------
 This is my second attempt at making a Calculator in C#. 
 
 There are two versions of my calculator on my github. Calculator 1.0 and Calulator 2.0.
@@ -15,8 +13,9 @@ However, I thought that this is not the most user friendly method of approaching
 able to tell what kind of operation the user would like to perform based on the symbol in between the two numbers, and then use the corresponding method, 
 rather than manually asking the user, creating another unnecessary step in the process.
 
+&nbsp;  
 
-NEW COMMANDS LEARNED DURING PROJECT
+New commands learned during the project
 -------------------------------------------
 * .Split() - Splits a string into sub strings based on user specified chracter/s
 * .Contains() - Returns a value based on whether or not a specified character is found within the string
@@ -24,8 +23,9 @@ NEW COMMANDS LEARNED DURING PROJECT
 * .Parse() - Converts a string to an int 
 * .Replace() - Returns a new string in which all occurences of a specified character or string are replaced with another specified character or string
 
+&nbsp;   
 
-IMPROVEMENTS TO BE MADE
+Improvements to be made
 -------------------------------------------
 * I would like the user to be able to do repeat calculations with the previous answer if they wish
 * I would to implement a calulation history, providing a user a list of all of their previous calculations
